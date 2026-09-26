@@ -1,5 +1,5 @@
 {
- "model_version": "20260926_1011",
+ "model_version": "20260926_1142",
  "formula": "pred = ансамбль(профиль, LightGBM) × K_calendar × K_weather × K_regime × K_incident × K_expert; в UI: pred_ui = pred × K_user(фактор, маршрут, интервал)",
  "blend_w_ml": 0.8,
  "ml_horizons": [

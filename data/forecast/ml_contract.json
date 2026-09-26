@@ -1,5 +1,5 @@
 {
- "model_version": "20260926_1011",
+ "model_version": "20260926_1142",
  "models": [
   "lgbm_h3_s42.txt",
   "lgbm_h3_s43.txt",
