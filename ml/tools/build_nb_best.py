@@ -64,7 +64,7 @@ KAGGLE_FULL_DOWNLOAD = False                           #@param {type:"boolean"}
 # папка на своём Google Drive: внутри external_data/, сюда же пишутся submissions/
 DRIVE_DATA_DIR = "/content/drive/MyDrive/mostrans"     #@param {type:"string"}
 # если на Drive нет external_data — ноутбук найдёт её в другой папке Drive или скачает из репозитория проекта
-EXT_REPO_URL = "https://github.com/shotmee/moscow_transport.git"   #@param {type:"string"}
+EXT_REPO_URL = "https://github.com/keshaptisa/transport_hack.git"   #@param {type:"string"}
 EXT_REPO_BRANCH = "main"                                             #@param {type:"string"}
 
 SEED = 42
